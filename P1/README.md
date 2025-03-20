@@ -24,7 +24,7 @@ En este análisis hemos tratado de valorar los pilares que podemos considerar fu
 ### Journey Map de Lucía Gómez
 ![Journey Map de Lucía Gómez](Lucía%20Gómez%20Journey%20Map.png)
 
-#### Joao Ferreiro
+#### Journey Map de Joao Ferreiro
 ![Journey Map de Joao Ferreiro](Joao%20Ferreiro%20Journey%20Map.png)
 
 ## Revisión de usabilidad 
