@@ -6,11 +6,8 @@
 - 2 User Journey Map  ( 1 por persona)
 - Revisión de Usabilidad 
 
-
->>>> Este fichero se debe editar para que cada evidencia quede enlazada con el recurso subido a la carpeta de la practica. Se pide más detalle técnico en las descripciones de lo que sería el README principal del repositorio y que corresponde a la descripcion del Case Study.
->>>> Incluya aquí simpre una valoración final del equipo sobre la propia realización de la práctica
-
 ### Análisis de la competencia
+En este análisis hemos tratado de valorar los pilares que podemos considerar fundamentales de los **Mercados Ecológicos** y en general de cualquier web que ofrece un servicio. Para ello realizamos una busqueda selectiva tratando de encontrar los que podrían ser nuestros mejores competidores a nivel local, como en este caso son Valle y Vega y Ecojaral pero también quisimos darle una perspectiva más global y encontramos GreenWeez o Naturitas. Pese a tratarse todas ellas de productos ecologicos o también conocidos como verdes, tienen puntos de vista distintos de como afrontar sus interfaces y servicios.
 
 ![Análisis de la competencia](Competitor%20Analisis.png)
 
