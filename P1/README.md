@@ -4,7 +4,21 @@
 - Desk research: Análisis Competencia 
 - 2 Personas 
 - 2 User Journey Map  ( 1 por persona)
-- Revisión de Usabilidad 
+- Revisión de Usabilidad
+
+### User Research Plan:
+
+El mercado de productos ecológicos representa un ecosistema complejo con múltiples actores interconectados. Los stakeholders principales incluyen:
+
+- Productores locales: Agricultores, ganaderos y pequeños empresarios que generan productos ecológicos certificados. Su rol es fundamental como fuente primaria de productos sostenibles y garantes de prácticas agrícolas responsables.
+  
+- Consumidores conscientes: Personas cada vez más preocupadas por el origen, calidad y sostenibilidad de sus alimentos. Buscan transparencia, trazabilidad y un impacto positivo en el medio ambiente.
+  
+- Organizaciones medioambientales: Entidades que promueven la sostenibilidad, realizan investigaciones y presionan por regulaciones que favorezcan prácticas ecológicas.
+  
+- Inversores y empresas tecnológicas: Interesados en el potencial de crecimiento de este mercado, desarrollando soluciones innovadoras para mejorar la eficiencia y accesibilidad de los productos ecológicos.
+  
+- Chefs y Restaurantes de Alta Cocina: Un stakeholder emergente y crucial en el ecosistema de productos ecológicos. Los mejores restaurantes del mundo están revolucionando la gastronomía con un compromiso radical con la sostenibilidad. Chefs de renombre internacional como Massimo Bottura, René Redzepi o Virgilio Martínez lideran un movimiento que va más allá de la simple alimentación: se trata de una revolución culinaria basada en ingredientes de origen local, trazabilidad absoluta y mínimo impacto ecológico. Para estos profesionales, los mercados ecológicos no son solo un proveedor, sino un aliado estratégico. Buscan ingredientes con una historia, con un origen conocido, cultivados con respeto al ecosistema. Valoran no solo la calidad organoléptica, sino también el impacto social y medioambiental de cada producto. Son embajadores de una nueva filosofía gastronómica donde cada ingrediente cuenta una historia de sostenibilidad, tradición y compromiso con el planeta.
 
 ### Análisis de la competencia
 En este análisis hemos tratado de valorar los pilares que podemos considerar fundamentales de los **Mercados Ecológicos** y en general de cualquier web que ofrece un servicio. Para ello realizamos una busqueda selectiva tratando de encontrar los que podrían ser nuestros mejores competidores a nivel local, como en este caso son Valle y Vega y Ecojaral pero también quisimos darle una perspectiva más global y encontramos GreenWeez o Naturitas. Pese a tratarse todas ellas de productos ecologicos o también conocidos como verdes, tienen puntos de vista distintos de como afrontar sus interfaces y servicios.
