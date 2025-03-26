@@ -42,5 +42,5 @@ En este análisis hemos tratado de valorar los pilares que podemos considerar fu
 ![Journey Map de Joao Ferreiro](Joao%20Ferreiro%20Journey%20Map.png)
 
 ## Revisión de usabilidad 
-El competidor elegido finalmente ha sido Naturitas.es debido a que es el que mayor puntuación ha tenido en nuestro análisis de la competencia y ha obtenido una puntuación de **99/100-Excelente**, para ver las valoraciones realizadas puede ir aquí: 
+El competidor elegido finalmente ha sido Naturitas.es debido a que es el que mayor puntuación ha tenido en nuestro análisis de la competencia y ha obtenido una puntuación de **98/100-Excelente**, para ver las valoraciones realizadas puede ir aquí: 
 [Revisión de usabilidad](https://docs.google.com/spreadsheets/d/10pyv0eafU9yzs6Yo7bgGHnGT2njIAScI/edit?usp=sharing&ouid=103161517094617397240&rtpof=true&sd=true)
