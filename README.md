@@ -5,7 +5,7 @@ Prácticas Diseño Interfaces de Usuario (Tema: Mercados ecológicos)
 
 Grupo: DIU1_CAJE.  Curso: 2024/25 
 
-Actualizado: 12/03/2025
+Actualizado: 26/03/2025
 
 Proyecto: 
 
