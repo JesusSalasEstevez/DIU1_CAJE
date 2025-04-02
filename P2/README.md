@@ -4,7 +4,7 @@
 * Malla receptora de información
 ![Feedback Capture Grid](Feedback%20Capture%20Grid.png)
 * Mapa de empatía
-* Propuesta de valor
+![Mapa de empatia](Empathy%20Customer%20Map.png)
 
 
 ### PROPUESTA DE VALOR
