@@ -9,6 +9,8 @@
 
 ### PROPUESTA DE VALOR
 * ScopeCanvas
+![ScopeCanvas](ScopeCanvas.png)
+
 
 
 ### TASK ANALYSIS
