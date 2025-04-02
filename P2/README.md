@@ -15,7 +15,8 @@
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
+* User Task Matrix
+![User Task Matrix](Task%20Research-1.png)
 * User/Task flow
 
 
