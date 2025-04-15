@@ -26,7 +26,8 @@ En Econnection creemos que cuidar el planeta y cuidarnos a nosotros mismos no de
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+* Sitemap
+* ![Site Map](SiteMap.png)
 * Labelling 
 
 
