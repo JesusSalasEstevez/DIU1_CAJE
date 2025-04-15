@@ -8,6 +8,10 @@
 
 
 ### PROPUESTA DE VALOR
+#### Econnection
+En Econnection creemos que cuidar el planeta y cuidarnos a nosotros mismos no debería ser un lujo. Por eso conectamos productos ecológicos de calidad, tanto de pequeños productores locales como de marcas comprometidas a gran escala con personas que buscan vivir de forma más consciente. No se trata solo de lo que compras, sino de una comunidad que comparte una forma de vida que busca lo mejor para ellos y los demás compartiendo sus secretos de la cocina o poniendo a disposición de otros sus productos.
+
+
 * ScopeCanvas
 ![ScopeCanvas](ScopeCanvas.png)
 
