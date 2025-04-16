@@ -27,9 +27,9 @@ En Econnection creemos que cuidar el planeta y cuidarnos a nosotros mismos no de
 ### ARQUITECTURA DE INFORMACIÓN
 
 * Sitemap
-* ![Site Map](SiteMap.png)
+![Site Map](SiteMap.png)
 * Labelling 
-
+![Labelling](Labelling.png)
 
 ### Prototipo Lo-FI Wireframe 
 ![Wireframe](Wireframe.png)
