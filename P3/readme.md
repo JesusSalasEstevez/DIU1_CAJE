@@ -7,7 +7,7 @@
 
 ### Moodboard
 
-![MoodBoard](moodboard.png)
+![MoodBoard](Moodboard.png)
 
 ### Landing Page
 La resolución del landing page es de 1440x3287.
