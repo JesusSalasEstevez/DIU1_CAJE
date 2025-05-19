@@ -65,7 +65,7 @@ Se trata de una chica que acaba de terminar sus estudios univesitarios, está pr
 
 #### Joao Ferreiro
 ![Joao Ferreriro Persona](P1/Joao%20Ferreiro%20Persona.png)
-
+Joao es un hombre jubilado que trabajó toda su vida en un supermercado, donde llegó a ser gerente. Le gusta cocinar recetas tradicionales y saludables, y disfruta reuniendo a su familia. Aunque la tecnología no es su punto fuerte, está intentando aprender para mantenerse en contacto con sus seres queridos y apoyar a su comunidad. Le preocupa la salud, la soledad y la situación económica de las nuevas generaciones.
 
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
@@ -167,8 +167,13 @@ En Econnection creemos que cuidar el planeta y cuidarnos a nosotros mismos no de
 
 
 ### 3.c Guidelines
-![Método UX](img/guidelines.png) 
-----
+![Método UX](img/guidelines.png)
+<br>
+Análisis de Guidelines Aplicadas
+ECONNECTION implementa un diseño con elementos de Material Design, visible en las tarjetas con bordes redondeados y sombras sutiles. La paleta cromática combina tonos beige y azul claro con acentos verdes, reforzando la identidad ecológica. El diseño prioriza la usabilidad mediante alto contraste texto-fondo, jerarquía visual clara y botones prominentes pero elegantes ("Añadir al carrito" en azul oscuro, Login, etc).
+
+Patrones UI Implementados
+Los principales patrones observables incluyen: navegación superior con logo, búsqueda y carrito, carrusel de imágenes para destacar la vista en vivo de los huertos, tarjetas de producto uniformes para productos, sistema de categorías visuales (Alimentación, Higiene), reseñas con foto y valoraciones de X estrellas, formulario de contacto con campos claramente etiquetados, y bloques informativos sobre valores de la marca. La ficha de producto detalla características específicas como la floración y muestra información del vendedor (@nombre_vendedor). Todo el diseño mantiene consistencia visual entre páginas, facilitando la familiaridad y navegación.
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
