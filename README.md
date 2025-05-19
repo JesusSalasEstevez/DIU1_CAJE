@@ -182,7 +182,7 @@ En Econnection creemos que cuidar el planeta y cuidarnos a nosotros mismos no de
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
-!(LandingPage)[P3/Landig%20Page.png]
+![Landing Page](P3/Landing%20Page.png)
 >>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
