@@ -33,8 +33,6 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
@@ -69,9 +67,6 @@ Se trata de una chica que acaba de terminar sus estudios univesitarios, está pr
 ![Joao Ferreriro Persona](P1/Joao%20Ferreiro%20Persona.png)
 
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
-
-
 ### 1.d User Journey Map
 ![Método UX](img/JourneyMap.png) 
 ----
@@ -81,7 +76,6 @@ Las experiencias de ambos usuarios evidencian, por un lado, la desconfianza que 
 
 #### Journey Map de Joao Ferreiro
 ![Journey Map de Joao Ferreiro](P1/Joao%20Ferreiro%20Journey%20Map.png)
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
 
 
 ### 1.e Usability Review
@@ -94,9 +88,6 @@ La valoración obtenida ha sido de 98/100, por lo que es una valoración excelen
 [Naturitas](https://www.naturitas.es/?srsltid=AfmBOorLQmoDiJQNFp7biN2QNQgT81CBblUAmDKjXQSUaMB6HjfJHaxV)
 
 ## Paso 2. UX Design  
-
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ![Método UX](img/feedback-capture-grid.png) 
 ----
@@ -119,17 +110,12 @@ En Econnection creemos que cuidar el planeta y cuidarnos a nosotros mismos no de
 
 ![ScopeCanvas](P2/ScopeCanvas.png)
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
-
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
 
 ![User Task Matrix](P2/TaskRank.png)
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
 
 
 ### 2.c IA: Sitemap + Labelling 
@@ -140,8 +126,6 @@ En Econnection creemos que cuidar el planeta y cuidarnos a nosotros mismos no de
 ![Site Map](P2/SiteMap.png)
 * Labelling 
 ![Labelling](P2/Labelling.png)
-
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
 
 
 ### 2.d Wireframes
@@ -174,25 +158,17 @@ En Econnection creemos que cuidar el planeta y cuidarnos a nosotros mismos no de
 ![Método UX](img/moodboard.png)
 -----
 ![Moodboard](P3/Moodboard.png)
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
 ![Landing Page](P3/Landing%20Page.png)
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
 
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
 ----
-
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
-
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
