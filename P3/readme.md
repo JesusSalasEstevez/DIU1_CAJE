@@ -15,16 +15,25 @@ La resolución del landing page es de 1440x3287.
 
 ### Mockup
 Desde este [enlace](https://www.figma.com/proto/qLc8fQZwTATccx86u86e7Y/LandingPageEconnection?node-id=80-230&t=7UTSVONJVLbxbsSK-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=80%3A230) se puede acceder al Mockup.
-
+<br>
 1440x3857
+<br>
 ![InicioPc](InicioPc.png)
+<br>
 402x2599
+<br>
 ![Inicio](Inicio.png)
+<br>
 402x2916
+<br>
 ![Buscador](Buscador.png)
+<br>
 402x2410
+<br>
 ![Objeto](Objeto.png)
+<br>
 402x1494
+<br>
 ![Reseñas](Reseñas.png)
 
 
